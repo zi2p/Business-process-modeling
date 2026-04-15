@@ -31,3 +31,34 @@
 <img width="1418" height="172" alt="image" src="https://github.com/user-attachments/assets/5da9885c-f559-416f-bd93-97f4079d9437" />
 
 <img width="834" height="765" alt="image" src="https://github.com/user-attachments/assets/dcb72a2b-73ba-4dd0-9791-45b10a1db079" />
+
+## Задание 3
+
+<img width="1341" height="1213" alt="image" src="https://github.com/user-attachments/assets/e734e67a-df0d-4627-ac2b-5ace2a9041ea" />
+
+
+Данные с занятия:
+<img width="2975" height="857" alt="image" src="https://github.com/user-attachments/assets/086051bf-a435-44f4-bdbc-f66ab5858dc9" />
+
+<img width="2785" height="921" alt="image" src="https://github.com/user-attachments/assets/e1b1e183-ec73-4f43-98ae-a17ee2dcacff" />
+<img width="832" height="507" alt="image" src="https://github.com/user-attachments/assets/0d8c9207-67d2-419e-bafe-0c08c06c8d45" />
+
+## Задание 4
+
+<img width="1771" height="887" alt="image" src="https://github.com/user-attachments/assets/6745529d-d7fe-4734-87c9-8a8e387e4103" />
+
+Данные с занятия:
+<img width="2027" height="513" alt="image" src="https://github.com/user-attachments/assets/f5b19650-ccc8-4bc3-889f-fd62f27510c4" />
+
+<img width="1462" height="535" alt="image" src="https://github.com/user-attachments/assets/b0885b02-fe7f-4e67-9d21-29f63875281c" />
+
+
+## Задание 5
+
+<img width="1098" height="467" alt="image" src="https://github.com/user-attachments/assets/d6a00be0-4c6d-4f0d-b56a-c860525d3dd9" />
+Данные с занятия:
+
+<img width="1447" height="1060" alt="image" src="https://github.com/user-attachments/assets/af055f79-172d-4cdb-87df-972d808c69ee" />
+<img width="873" height="1016" alt="image" src="https://github.com/user-attachments/assets/8616b525-c661-4cb4-b6a7-beac244a1b41" />
+<img width="1296" height="1498" alt="image" src="https://github.com/user-attachments/assets/6fb7ca9f-3818-4862-9803-dc890d84063a" />
+
