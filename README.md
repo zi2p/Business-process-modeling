@@ -2,4 +2,7 @@
 
 ## Одна из дисциплин образовательной программы ИСБ (Информационные системы бизнеса).
 
-Лекционный материал и данные для заданий можно посмотреть [https://miro.com/app/board/uXjVGCJHDzY=/](тут). 
+## Задание 1
+
+<img width="1027" height="731" alt="image" src="https://github.com/user-attachments/assets/e759141d-d0b2-4f8f-ae0d-1404f8ab1378" />
+
