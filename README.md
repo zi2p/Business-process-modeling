@@ -52,6 +52,10 @@
 
 <img width="1462" height="535" alt="image" src="https://github.com/user-attachments/assets/b0885b02-fe7f-4e67-9d21-29f63875281c" />
 
+ График из задания
+
+ <img width="1204" height="201" alt="image" src="https://github.com/user-attachments/assets/2a43a773-8280-4caf-a68a-ca6c5bbb2001" />
+
 
 ## Задание 5
 
